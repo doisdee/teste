@@ -1,9 +1,5 @@
 {
-  "auto-login-pc": [
-    "2453453"
-  ],
-  "auto-anuncio-pc": [
-    "234324"
-  ],
+  "auto-login-pc": [],
+  "auto-anuncio-pc": [],
   "logs-materiais": []
 }
