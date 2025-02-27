@@ -1,19 +1,5 @@
 {
-  "auto-login-pc": [
-    "233",
-    "233",
-    "4444",
-    "1111"
-  ],
-  "auto-anuncio-pc": [
-    "22",
-    "33",
-    "44"
-  ],
-  "logs-materiais": [
-    "1334",
-    "111",
-    "24252",
-    "455433543"
-  ]
+  "auto-login-pc": [],
+  "auto-anuncio-pc": [],
+  "logs-materiais": []
 }
